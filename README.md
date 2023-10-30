@@ -193,3 +193,7 @@
 
 *   [Geneinno](https://link.zhihu.com/?target=https%3A//www.geneinno.com/) - 水下无人机。
 
+### 视觉定位
+*   [无人机-卫星-地面三平台图像定位](https://github.com/layumi/University1652-Baseline) [知乎介绍](https://zhuanlan.zhihu.com/p/110987552)
+*   [ACM MM2023 Workshop: UAV in Multimedia](https://www.zdzheng.xyz/ACMMM2023Workshop/)
+*   [无人机视觉定位排行榜](https://github.com/layumi/University1652-Baseline/tree/master/State-of-the-art)
